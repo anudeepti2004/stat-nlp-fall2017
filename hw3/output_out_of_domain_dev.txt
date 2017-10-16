@@ -82,7 +82,7 @@ VI	NNP
 -	HYPH
 D	NNP
 -	HYPH
-iii	NN
+iii	NNP
 ,	,
 VI	NNP
 -	HYPH
@@ -2868,7 +2868,7 @@ Rumsfeld	NNP
 charging	VBG
 that	IN
 they	PRP
-mismanaged	VBN
+mismanaged	VBD
 the	DT
 evacuation	NN
 efforts	NNS
@@ -4478,7 +4478,7 @@ what	WP
 is	VBZ
 all	PDT
 the	DT
-fuss	VB
+fuss	NN
 about	IN
 suicide	NN
 killings	NNS
@@ -5682,9 +5682,9 @@ to	TO
 claim	VB
 that	IN
 the	DT
-holocaust	VB
+holocaust	NN
 never	RB
-happened	VBN
+happened	VBD
 ,	,
 and	CC
 that	IN
@@ -7082,7 +7082,7 @@ Do	VBP
 you	PRP
 raid	VB
 a	DT
-mosque	JJ
+mosque	NN
 ,	,
 which	WDT
 serves	VBZ
@@ -7147,8 +7147,8 @@ strip	VB
 every	DT
 woman	NN
 because	IN
-one	CD
-pretended	VBN
+one	PRP
+pretended	VBD
 to	TO
 be	VB
 pregnant	JJ
@@ -7350,7 +7350,7 @@ him	PRP
 as	IN
 a	DT
 great	JJ
-dignitary	JJ
+dignitary	NN
 .	.
 
 I	PRP
@@ -7849,7 +7849,7 @@ surgically	RB
 You	PRP
 may	MD
 also	RB
-starve	VBP
+starve	VB
 it	PRP
 by	IN
 preventing	VBG
@@ -8659,8 +8659,8 @@ expelling	JJ
 inciting	VBG
 preachers	NNS
 and	CC
-forbidding	JJ
-veils	VBZ
+forbidding	VBG
+veils	NNS
 and	CC
 including	VBG
 others	NNS
@@ -8986,7 +8986,7 @@ Delhi	NNP
 of	IN
 using	VBG
 its	PRP$
-consulates	VBZ
+consulates	NNS
 in	IN
 Kandahar	NNP
 and	CC
@@ -9236,7 +9236,7 @@ they	PRP
 all	RB
 have	VBP
 their	PRP$
-favourite	NN
+favourite	JJ
 contenders	NNS
 in	IN
 Afghanistan	NNP
@@ -10176,7 +10176,7 @@ Delhi	NNP
 of	IN
 using	VBG
 its	PRP$
-consulates	VBZ
+consulates	NNS
 in	IN
 Kandahar	NNP
 and	CC
@@ -10553,7 +10553,7 @@ made	VBN
 possible	JJ
 after	IN
 the	DT
-ousting	VBG
+ousting	NN
 of	IN
 Ismail	NNP
 Khan	NNP
@@ -11826,7 +11826,7 @@ Vienna	NNP
 
 Despite	IN
 many	JJ
-wrinkles	VBZ
+wrinkles	NNS
 ,	,
 India	NNP
 remains	VBZ
@@ -11920,7 +11920,7 @@ the	DT
 corner	NN
 in	IN
 the	DT
-subcontinent	JJ
+subcontinent	NN
 was	VBD
 China	NNP
 .	.
@@ -12257,7 +12257,7 @@ Washington	NNP
 Times	NNP
 28/10/2004	CD
 
-Tamils	NNP
+Tamils	NNS
 feel	VBP
 that	IN
 the	DT
@@ -12796,8 +12796,8 @@ LTTE	NNP
 had	VBD
 become	VBN
 a	DT
-de	NNP
-jure	VB
+de	FW
+jure	NN
 power	NN
 in	IN
 the	DT
@@ -13834,7 +13834,7 @@ the	DT
 Andamans	NNP
 .	.
 
-Correspondents	NNPS
+Correspondents	NNS
 who	WP
 flocked	VBD
 in	IN
@@ -14633,7 +14633,7 @@ weaken	VB
 India	NNP
 's	POS
 eastern	JJ
-flank	VB
+flank	NN
 .	.
 
 Indian	JJ
@@ -16747,7 +16747,7 @@ was	VBD
 described	VBN
 by	IN
 one	CD
-confidante	NNP
+confidante	NN
 to	IN
 an	DT
 Egyptian	JJ
@@ -17407,7 +17407,7 @@ seed	NN
 product	NN
 in	IN
 its	PRP$
-unweaponized	VBN
+unweaponized	JJ
 form	NN
 ,	,
 since	IN
@@ -18499,7 +18499,7 @@ Qadoos	NNP
 who	WP
 receives	VBZ
 a	DT
-stipend	VB
+stipend	NN
 from	IN
 the	DT
 UN	NNP
@@ -19558,7 +19558,7 @@ extradition	NN
 of	IN
 WTC	NNP
 1993	CD
-plotter	VB
+plotter	NN
 Ramzi	NNP
 Yousef	NNP
 from	IN
@@ -20493,7 +20493,7 @@ The	DT
 imprisoned	VBN
 WTC	NNP
 1993	CD
-plotter	VB
+plotter	NN
 Yousef	NNP
 was	VBD
 KSM	NNP
@@ -21544,7 +21544,7 @@ fair	JJ
 that	IN
 the	DT
 FBI	NNP
-leak	JJ
+leak	NN
 with	IN
 equal	JJ
 enthusiasm	NN
@@ -22018,8 +22018,8 @@ demonstrates	VBZ
 
 The	DT
 decision	NN
-to	IN
-sidestep	NN
+to	TO
+sidestep	VB
 the	DT
 obvious	JJ
 to	TO
@@ -22251,7 +22251,7 @@ c'est	NN
 comme	NN
 a	DT
 la	JJ
-guerre	JJ
+guerre	NN
 !	.
 
 Iran	NNP
@@ -22852,7 +22852,7 @@ time	NN
 "	NN
 .	.
 
-Mosques	NNP
+Mosques	NNS
 are	VBP
 calling	VBG
 for	IN
@@ -24019,7 +24019,7 @@ it	PRP
 seems	VBZ
 .	.
 
-***	NFP
+***	.
 
 Several	JJ
 candidates	NNS

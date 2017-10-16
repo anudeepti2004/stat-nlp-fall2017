@@ -329,7 +329,7 @@ about	IN
 every	DT
 sin	NN
 an	DT
-online	JJ
+online	NN
 marketer	NN
 could	MD
 commit	VB
@@ -997,7 +997,7 @@ W.	NNP
 Graae	NNP
 .	.
 
-***	NFP
+***	.
 
 Bush	NNP
 also	RB
@@ -1063,8 +1063,8 @@ yesterday	NN
 "	IN
 At	IN
 first	JJ
-I	NN
-hid	NN
+I	PRP
+hid	VBD
 a	DT
 lot	NN
 .	.
@@ -2494,7 +2494,7 @@ out	IN
 blog	NN
 .	.
 
-hey	PRP
+hey	NN
 that	WDT
 's	VBZ
 a	DT
@@ -2710,7 +2710,7 @@ $	$
 21,000	CD
 ......	:
 And	CC
-......	:
+......	IN
 You	PRP
 HAVE	NNP
 To	TO
@@ -3510,7 +3510,7 @@ about	RB
 how	WRB
 he	PRP
 could	MD
-humiliate	NN
+humiliate	VB
 her	PRP
 the	DT
 most	RBS
@@ -4202,7 +4202,7 @@ people	NNS
 through	IN
 which	WDT
 the	DT
-devil	VB
+devil	NN
 has	VBZ
 always	RB
 been	VBN
@@ -4683,9 +4683,9 @@ convicted	VBN
 of	IN
 beating	VBG
 his	PRP$
-teen	JJ
+teen	NN
 daughter	NN
-unconcious	NN
+unconcious	JJ
 when	WRB
 she	PRP
 ran	VBD
@@ -5256,8 +5256,8 @@ soldiers	NNS
 
 They	PRP
 wanted	VBD
-to	IN
-brainwash	NN
+to	TO
+brainwash	VB
 them	PRP
 and	CC
 control	VB
@@ -5733,7 +5733,7 @@ I	PRP
 detect	VBP
 the	DT
 hissing	JJ
-lisp	JJ
+lisp	NN
 of	IN
 the	DT
 lying	VBG
@@ -6150,7 +6150,7 @@ or	CC
 we	PRP
 just	RB
 have	VBP
-waaaaaaaaaaaaay	NN
+waaaaaaaaaaaaay	RB
 different	JJ
 definitions	NNS
 of	IN
@@ -6375,7 +6375,7 @@ had	VBD
 a	DT
 collection	NN
 of	IN
-satanic	NN
+satanic	JJ
 literature	NN
 and	CC
 paraphernalia	NNS
@@ -7616,9 +7616,9 @@ a	DT
 thing	NN
 like	IN
 that	DT
-....	:
+....	NN
 hey	PRP
-wait	VB
+wait	VBP
 a	DT
 minute	NN
 
@@ -7680,9 +7680,9 @@ and	CC
 13389	CD
 ,	,
 and	CC
-***	SYM
+***	NN
 Revocation	NNP
-***	SYM
+***	NNP
 of	IN
 Executive	NNP
 Order	NNP
@@ -8187,7 +8187,7 @@ Sub-cultures	NNS
 (	(
 as	IN
 the	DT
-lable	JJ
+lable	NN
 implies	VBZ
 )	)
 do	VBP
@@ -8266,7 +8266,7 @@ a	DT
 whole	JJ
 other	JJ
 topic	NN
-....	:
+....	NN
 )	)
 
 I	PRP
@@ -9566,7 +9566,7 @@ officially	RB
 said	VBD
 that	IN
 they	PRP
-posses	NNS
+posses	VBZ
 nuclear	JJ
 weapons	NNS
 ,	,
@@ -9745,7 +9745,7 @@ engine	NN
 (	(
 and	CC
 now	RB
-e-mail	NN
+e-mail	JJ
 )	)
 wares	NNS
 into	IN
@@ -11972,7 +11972,7 @@ A	DT
 radical	JJ
 Shiite	JJ
 Muslim	NNP
-cleric	JJ
+cleric	NN
 has	VBZ
 expressed	VBN
 solidarity	NN
@@ -13378,7 +13378,7 @@ at	IN
 :	:
 3:29	CD
 p.m.	NN
-EST	NN
+EST	NNP
 (	(
 2029	CD
 GMT	NNP
@@ -13657,7 +13657,7 @@ good	JJ
 news	NN
 for	IN
 the	DT
-subcontinent	JJ
+subcontinent	NN
 .	.
 "	</S>
 
@@ -13900,7 +13900,7 @@ to	IN
 power	NN
 as	IN
 a	DT
-warmonger	RB
+warmonger	NN
 .	.
 
 I	PRP
@@ -14927,7 +14927,7 @@ Pakistan	NNP
 .	.
 
 I	PRP
-presume	VB
+presume	VBP
 you	PRP
 need	VBP
 the	DT
@@ -17201,7 +17201,7 @@ the	DT
 sheikh	NN
 of	IN
 the	DT
-mujahideen	VBN
+mujahideen	NN
 Osama	NNP
 bin	NN
 Laden	NNP
@@ -17972,7 +17972,7 @@ Iraqis	NNP
 ,	,
 "	IN
 You	PRP
-sinned	VBN
+sinned	VBD
 when	WRB
 you	PRP
 participated	VBD
@@ -18352,8 +18352,8 @@ abducted	VBN
 and	CC
 guerrillas	NNS
 threaten	VBP
-to	IN
-behead	NN
+to	TO
+behead	VB
 them	PRP
 if	IN
 the	DT
@@ -18824,7 +18824,7 @@ the	DT
 preacher	NN
 at	IN
 the	DT
-mosque	JJ
+mosque	NN
 in	IN
 the	DT
 town	NN
@@ -18843,7 +18843,7 @@ killing	NN
 of	IN
 a	DT
 respected	JJ
-cleric	JJ
+cleric	NN
 will	MD
 be	VB
 causing	VBG
@@ -19681,7 +19681,7 @@ managed	VBD
 to	TO
 take	VB
 his	PRP$
-deposition	VB
+deposition	NN
 before	IN
 he	PRP
 died	VBD

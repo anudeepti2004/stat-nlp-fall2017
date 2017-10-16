@@ -1634,7 +1634,7 @@ Notes	NNS
 ...	:
 .	.
 
-ARNOLD	VB
+ARNOLD	NNP
 ADVERTISING	NNP
 :	:
 
@@ -1763,7 +1763,7 @@ McNamee	NNP
 WCRS	NNP
 .	.
 
-EDUCATION	NN
+EDUCATION	NNP
 ADS	NNPS
 :	:
 
@@ -1943,7 +1943,7 @@ mean	NN
 and	CC
 the	DT
 mean	JJ
-ol'	''
+ol'	NN
 law	NN
 caught	VBN
 up	RP
@@ -2586,7 +2586,7 @@ relative	JJ
 calm	NN
 .	.
 
-Partisans	NNPS
+Partisans	NNS
 of	IN
 the	DT
 two	CD
@@ -2804,7 +2804,7 @@ fans	NNS
 and	CC
 only	RB
 the	DT
-suicidal	JJ
+suicidal	NN
 would	MD
 bifurcate	VB
 their	PRP$
@@ -2843,7 +2843,7 @@ Walt	NNP
 Weiss	NNP
 ,	,
 a	DT
-twiggy	JJ
+twiggy	NN
 -	HYPH
 looking	VBG
 ,	,
@@ -11242,7 +11242,7 @@ prices	NNS
 .	.
 
 No	DT
-fiddling	JJ
+fiddling	NN
 with	IN
 systems	NNS
 and	CC
@@ -12760,9 +12760,9 @@ months	NNS
 painted	VBN
 walls	NNS
 ,	,
-polished	JJ
+polished	VBN
 and	CC
-carpeted	VBD
+carpeted	VBN
 floors	NNS
 ,	,
 bought	VBD
@@ -14343,7 +14343,7 @@ the	DT
 label	NN
 for	IN
 the	DT
-powder	JJR
+powder	NN
 version	NN
 .	.
 
@@ -16057,7 +16057,7 @@ Friday	NNP
 
 The	DT
 grand	JJ
-marshal	JJ
+marshal	NN
 of	IN
 this	DT
 parade	NN
@@ -19053,7 +19053,7 @@ ban	NN
 chemicals	NNS
 thought	VBD
 to	TO
-deplete	JJ
+deplete	VB
 the	DT
 ozone	NN
 layer	NN
@@ -26025,7 +26025,7 @@ margins	NNS
 also	RB
 have	VBP
 been	VBN
-pinched	VBD
+pinched	VBN
 by	IN
 changes	NNS
 in	IN
@@ -36804,7 +36804,7 @@ from	IN
 %	NN
 .	.
 
-Memotec	JJ
+Memotec	NNP
 Data	NNP
 Inc.	NNP
 said	VBD
@@ -36881,7 +36881,7 @@ US$	$
 )	)
 .	.
 
-Memotec	JJ
+Memotec	NNP
 said	VBD
 under	IN
 the	DT
@@ -36938,7 +36938,7 @@ computer	NN
 services	NNS
 .	.
 
-Memotec	JJ
+Memotec	NNP
 said	VBD
 the	DT
 agreement	NN
@@ -37005,7 +37005,7 @@ and	CC
 debentures	NNS
 .	.
 
-Memotec	JJ
+Memotec	NNP
 said	VBD
 the	DT
 tender	NN
@@ -37674,7 +37674,7 @@ hunting	NN
 
 Among	IN
 those	DT
-sighing	VBG
+sighing	NN
 with	IN
 relief	NN
 was	VBD
