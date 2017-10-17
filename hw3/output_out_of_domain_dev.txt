@@ -1825,7 +1825,7 @@ in	IN
 1970	CD
 .	.
 
-[	NN
+[	(
 In	IN
 other	JJ
 words	NNS
@@ -1853,7 +1853,7 @@ alone	RB
 
 -	HYPH
 acd	NN
-]	.
+]	)
 
 He	PRP
 earned	VBD
@@ -8960,7 +8960,7 @@ turn	VB
 .	.
 "	''
 
-[	NN
+[	(
 Karzai	NNP
 also	RB
 has	VBZ
@@ -9092,7 +9092,7 @@ National	NNP
 Security	NNP
 Directorate	NNP
 .	.
-]	</S>
+]	)
 
 Karzai	NNP
 ,	,
@@ -12955,10 +12955,10 @@ not	RB
 have	VB
 the	DT
 power	NN
-[	NN
+[	(
 unlike	IN
 India	NNP
-]	NNP
+]	)
 to	TO
 underwrite	VB
 any	DT
